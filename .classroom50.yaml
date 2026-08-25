@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "ds-turma-3a"
+assignment: "aula05-cadastro-alunos-dupla"
+owner:
+  username: "HeitorSantos2006"
+  id: 209771845
+  accepted_at: "2026-08-25T12:02:53Z"
+source:
+  owner: "desenvolvimento-sistemas-2026-2"
+  owner_id: 318238261
+  repo: "aula05-cadastro-alunos-dupla-template"
+  branch: "main"
