@@ -4,12 +4,12 @@ Classroom: Classroom 50
 Assignment: aula05-cadastro-alunos-dupla
 Equipe:
 Turma:
-Integrante 1:
-Integrante 2:
+Integrante 1: Gabriel Prado  
+Integrante 2: Heitor Santos 
 
 ## Divisao de tarefas
-- Integrante 1:
-- Integrante 2:
+- Integrante 1: Gabriel Prado  
+- Integrante 2: Heitor Santos 
 
 ## Commits obrigatorios
 - Integrante 1 fez pelo menos um commit?
